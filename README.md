@@ -18,6 +18,7 @@
 - [X] Social sharing
 - [X] Docker build
 - [X] Admob support
+- [X] Custom post-order (depends on WordPress plugin, see bellow)
 - [ ] App rate plugin
 - [ ] Comments
 - [ ] Push Notifications
@@ -60,3 +61,106 @@
   * https://itunes.apple.com/nl/app/jonginnop/id1073451236?mt=8
   * https://itunes.apple.com/us/app/id1132170549
   * https://itunes.apple.com/us/app/suz-blog/id1145036348
+
+## Quick Start
+
+### Prerequisites
+
+- Git
+- NodeJS (>= 4)
+- NPM (>= 3)
+
+This installation works on both OSX and Linux. Windows is not supported yet,
+
+```
+# Clone and use the latest version
+$ git clone https://github.com/shprink/wordpress-hybrid-client.git && cd wordpress-hybrid-client
+# List all versions
+$ git tag
+$ git checkout <the-latest-version>
+
+# Install
+$ npm install && npm run installWPHC
+
+# Run on the browser
+$ npm start
+```
+
+Open http://localhost:8080/webpack-dev-server/ in Chrome (the only browser supported). You should see the application running with `http://dev.julienrenaux.fr/wp-json` backend.
+
+To go further please read the documentations.
+
+## Documentation
+
+If you have just cloned the repository,  [INSTALLATION](INSTALLATION.md) is the recommended starting point. Here is the documentation index:
+
+### Installation
+
+Read the manual: [INSTALLATION.md](INSTALLATION.md)
+
+### Configuration
+
+Read the manual: [CONFIGURATION.md](CONFIGURATION.md)
+
+### Development
+
+Read the manual: [DEVELOPMENT.md](DEVELOPMENT.md)
+
+### Push Notifications
+
+Read the manual: [PUSHNOTIFICATIONS.md](PUSHNOTIFICATIONS.md)
+
+### Build Android & iOS
+
+Read the manual: [BUILD.md](BUILD.md)
+
+### Release Android & iOS
+
+Read the manual: [RELEASE.md](RELEASE.md)
+
+### Splashscreens and Icons
+
+Read the manual: [SPLASHICONS.md](SPLASHICONS.md)
+
+### Custom post-order
+
+Read the manual: [CUSTOM_POST_ORDER.md](CUSTOM_POST_ORDER.md)
+
+## Project public API
+
+```
+# Dev server
+npm start
+
+# Dump files in www
+npm run dumpdev
+npm run dumpprod
+
+# Install Cordova
+npm run restore
+
+# Run Cordova
+npm run android
+npm run ios
+npm run iosEmulator
+
+# Cordova build
+npm run buildAndroid
+npm run buildProdAndroid
+npm run buildIOS
+npm run buildProdIOS
+```
+
+## Contribute
+
+WordPress Hybrid 2.0 Client is Open Source, If you are interested in helping, please read the following:
+
+### Pull Request Guidelines
+
+When in doubt, keep your pull requests small. To give a PR the best chance of getting accepted, do not bundle more than one "feature" or bug fix in one PR. Doing so makes it very hard to accept it if one of the fixes has issues.
+
+It's always best to create two smaller PRs than one big one.
+
+### Style
+
+Always use four spaces, no tabs. This goes for any HTML, CSS, or Javascript.

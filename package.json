@@ -1,10 +1,10 @@
 {
   "name": "wordpress-hybrid-client",
-  "version": "3.0.0-alpha03",
+  "version": "3.0.1",
   "description": "Build amazing iOS and Android applications for your WordPress website for free!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shprink/wordpress-hybrid-client.git"
+    "url": "git+https://github.com/MrGKanev/Hybrid-2.0.git"
   },
   "keywords": [
     "wp-api",
@@ -16,12 +16,12 @@
     "material design",
     "client"
   ],
-  "author": "Julien Renaux <contact@julienrenaux.fr>",
+  "author": "Gabriel Kanev <contact@mrgkanev.eu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shprink/wordpress-hybrid-client/issues"
+    "url": "https://github.com/MrGKanev/Hybrid-2.0//issues"
   },
-  "homepage": "https://github.com/shprink/wordpress-hybrid-client#readme",
+  "homepage": "https://github.com/MrGKanev/Hybrid-2.0/#readme",
   "scripts": {
     "test": "karma start ./test-config/karma.conf.js",
     "test-ci": "karma start ./test-config/karma-ci.conf.js --single-run",
@@ -74,7 +74,7 @@
     "angular2-moment": "^1.1.0",
     "clipboard": "^1.7.1",
     "debug": "^2.6.8",
-    "deep-extend": "^0.4.1",
+    "deep-extend": "^0.5.1",
     "express": "^4.16.2",
     "ionic-angular": "3.8.0",
     "ionicons": "3.0.0",

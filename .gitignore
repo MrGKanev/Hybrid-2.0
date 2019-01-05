@@ -28,6 +28,7 @@ node_modules
 .lock-wscript
 
 .idea
+.DS_Store
 engine/
 node_modules/
 platforms/

@@ -20,7 +20,7 @@ metas:
     ogImageHeight: 400
     # Twitter card
     twitterSite: ''
-    twitterCreator: '' # e.g @julienrenaux
+    twitterCreator: '' # e.g @mrgkanev
 
 admob:
     bannerEnabled: false

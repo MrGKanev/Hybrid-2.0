@@ -94,9 +94,10 @@
   dependencies:
     tsickle "^0.21.0"
 
-"@ionic-native/admob-free@^4.5.2":
-  version "4.5.2"
-  resolved "https://registry.yarnpkg.com/@ionic-native/admob-free/-/admob-free-4.5.2.tgz#28445619d9d438c797c00c7695539fea643c4dce"
+"@ionic-native/admob-free@^4.20.0":
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/admob-free/-/admob-free-4.20.0.tgz#e793e61b6960480a2b8eef8c6220f53ed554e700"
+  integrity sha512-zVeFWR/xSZXnI7omy7LQZ/2ADQ7zn5eYcO0vooSMNQIDXeXC6T/9lCmhXQX4gAr+aU4Al3hPUSZCbOrTi5uO2w==
 
 "@ionic-native/core@^3.4.2":
   version "3.14.0"

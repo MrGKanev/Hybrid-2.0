@@ -84,7 +84,7 @@
     "rxjs": "^5.2.0",
     "sw-toolbox": "^3.4.0",
     "wp-api-angular": "^3.0.0-beta8",
-    "zone.js": "0.8.18"
+    "zone.js": "0.10.2"
   },
   "devDependencies": {
     "@angular/router": "^4.1.3",

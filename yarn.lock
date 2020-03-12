@@ -106,9 +106,10 @@
   version "3.14.0"
   resolved "https://registry.yarnpkg.com/@ionic-native/push/-/push-3.14.0.tgz#e3353c78543bdf47f4298f37f864dd9356866f55"
 
-"@ionic-native/social-sharing@^4.4.2":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@ionic-native/social-sharing/-/social-sharing-4.4.2.tgz#74f401f263901decaa16acfbd8d587863d9fad96"
+"@ionic-native/social-sharing@^4.20.0":
+  version "4.20.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/social-sharing/-/social-sharing-4.20.0.tgz#3a2f50282ae5e6be0419163da5f683c6b659e25e"
+  integrity sha512-mUCjozvaMp09UU2L9qTabw6JgVcvSxGVMJq069Oh66llgCiiGUbsKyqtbU7RIRMp74lJLZVZvxFlvfUP8hZ/Jw==
 
 "@ionic-native/splash-screen@^3.4.2":
   version "3.14.0"

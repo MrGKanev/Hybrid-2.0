@@ -23,11 +23,12 @@
   dependencies:
     tslib "^1.7.1"
 
-"@angular/compiler-cli@4.4.4":
-  version "4.4.4"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-4.4.4.tgz#063080a497d9175396825050222c717da184f6cf"
+"@angular/compiler-cli@4.4.7":
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-4.4.7.tgz#18e698f6da6166e75df7f782bd26f1f0f34e39f9"
+  integrity sha512-vzphs9galtMV29CW+ihp6v0HwSQrjAFqs04swqt9o0jEJET6/mPi1EFjJRNZiFn6ghh6lxUPr3vThy7CrSNxHg==
   dependencies:
-    "@angular/tsc-wrapped" "4.4.4"
+    "@angular/tsc-wrapped" "4.4.7"
     minimist "^1.2.0"
     reflect-metadata "^0.1.2"
 
@@ -88,9 +89,10 @@
     base64-js "^1.1.2"
     jshashes "^1.0.5"
 
-"@angular/tsc-wrapped@4.4.4":
-  version "4.4.4"
-  resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.4.4.tgz#9841821e55616b826ca160250fe85e15fc74ffc3"
+"@angular/tsc-wrapped@4.4.7":
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.4.7.tgz#d4d9ffb0a689a9ce3009012446a5ae382941f06d"
+  integrity sha512-R9w7sTU+HSTMPOa4NgvPL753qB6aqnPc1AVh2rwSl5FOpLS/AeeyzIhRnBsVXGrZrTcBQVLp/Cxg1oUSXE2k4Q==
   dependencies:
     tsickle "^0.21.0"
 

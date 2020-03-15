@@ -4452,9 +4452,10 @@ netmask@^1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
 
-ng-lazyload-image@^3.3.5:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/ng-lazyload-image/-/ng-lazyload-image-3.3.6.tgz#436c6facaef6361bf2eefe35252b0a0f535340c5"
+ng-lazyload-image@^3.4.2:
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/ng-lazyload-image/-/ng-lazyload-image-3.4.2.tgz#0654d750185105045111b089a3f9ee2d3044f1bc"
+  integrity sha512-Cukdq+lSDzWfvMAAvbi6aDv4cCJWX0dwqDJUZ5LmEUGHA+9+ajGInQ/lbxH1UsPgVo+pL4LvjJrJoHPq4S6aIQ==
 
 ng-pwa-tools@^0.0.15:
   version "0.0.15"

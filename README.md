@@ -1,6 +1,5 @@
 # WordPressClients PWA, Android, iOS
 
-![screenshots](https://mgknet.com/wp-content/uploads/2018/09/devices.jpg)
 
 ## Features
 
@@ -34,7 +33,6 @@
   * https://play.google.com/store/apps/details?id=com.anotherplanet.korkubilimi
   * https://play.google.com/store/apps/details?id=com.anotherplanet.metallicaonline
   * https://play.google.com/store/apps/details?id=com.anotherplanet.pinkfloyd
-  * http://hiwaldorf.com/app/
   * https://play.google.com/store/apps/details?id=com.notmyfault
   * https://play.google.com/store/apps/details?id=com.ek.klootschieten
   * https://play.google.com/store/apps/details?id=ca.siksik.SikSikYFB
@@ -92,23 +90,23 @@ To go further please read the documentations.
 
 ## Documentation
 
-If you have just cloned the repository,  [INSTALLATION](INSTALLATION.md) is the recommended starting point. Here is the documentation index:
+If you have just cloned the repository,  [INSTALLATION](dosc/INSTALLATION.md) is the recommended starting point. Here is the documentation index:
 
 ### Installation
 
-Read the manual: [INSTALLATION.md](INSTALLATION.md)
+Read the manual: [dosc/INSTALLATION.md](INSTALLATION.md)
 
 ### Configuration
 
-Read the manual: [CONFIGURATION.md](CONFIGURATION.md)
+Read the manual: [CONFIGURATION.md](#)
 
 ### Development
 
-Read the manual: [DEVELOPMENT.md](DEVELOPMENT.md)
+Read the manual: [DEVELOPMENT.md](#)
 
 ### Push Notifications
 
-Read the manual: [PUSHNOTIFICATIONS.md](PUSHNOTIFICATIONS.md)
+Read the manual: [PUSHNOTIFICATIONS.md](#)
 
 ### Build Android & iOS
 
@@ -116,15 +114,15 @@ Read the manual: [BUILD.md](BUILD.md)
 
 ### Release Android & iOS
 
-Read the manual: [RELEASE.md](RELEASE.md)
+Read the manual: [RELEASE.md](#)
 
 ### Splashscreens and Icons
 
-Read the manual: [SPLASHICONS.md](SPLASHICONS.md)
+Read the manual: [SPLASHICONS.md](#)
 
 ### Custom post-order
 
-Read the manual: [CUSTOM_POST_ORDER.md](CUSTOM_POST_ORDER.md)
+Read the manual: [CUSTOM_POST_ORDER.md](#)
 
 ## Project public API
 

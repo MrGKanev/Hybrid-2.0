@@ -1,0 +1,145 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - karma > socket.io > socket.io-adapter > socket.io-parser > debug:
+        patched: '2020-03-28T00:23:07.096Z'
+  'npm:hoek:20180212':
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > request > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - karma > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - ionic > @ionic/cli-utils > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > node-gyp > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > request > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > insight > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > node-gyp > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > request > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > insight > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > node-gyp > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > request > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > insight > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - node-sass > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > insight > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > sntp > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > node-gyp > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > npm-registry-client > request > hawk > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > node-gyp > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > npm-registry-client > request > hawk > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > node-gyp > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > npm-registry-client > request > hawk > sntp > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > npm > npm-registry-client > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-03-28T00:23:07.096Z'
+  'npm:lodash:20180130':
+    - cordova > cordova-common > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > cordova-common > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > cordova-fetch > cordova-common > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > cordova-create > cordova-common > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+    - cordova > cordova-lib > cordova-create > cordova-fetch > cordova-common > plist > xmlbuilder > lodash:
+        patched: '2020-03-28T00:23:07.096Z'
+  'npm:ms:20170412':
+    - karma > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2020-03-28T00:23:07.096Z'

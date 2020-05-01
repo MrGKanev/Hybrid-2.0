@@ -216,6 +216,8 @@ patch:
         patched: '2020-05-01T08:40:05.305Z'
     - lodash:
         patched: '2020-05-01T08:40:05.305Z'
+    - ionic > @ionic/cli-framework > @ionic/utils-subprocess > @ionic/utils-process > lodash:
+        patched: '2020-05-01T08:45:16.196Z'
   'npm:tunnel-agent:20170305':
     - karma > log4js > loggly > request > tunnel-agent:
         patched: '2020-05-01T08:40:05.305Z'

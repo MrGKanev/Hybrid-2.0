@@ -127,6 +127,22 @@ patch:
         patched: '2020-03-28T00:23:07.096Z'
     - cordova > cordova-lib > npm > npm-registry-client > request > hawk > cryptiles > boom > hoek:
         patched: '2020-03-28T00:23:07.096Z'
+    - karma > log4js > loggly > request > hawk > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > loggly > request > hawk > boom > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > loggly > request > hawk > sntp > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > loggly > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > slack-node > requestretry > request > hawk > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > slack-node > requestretry > request > hawk > boom > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > slack-node > requestretry > request > hawk > sntp > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > slack-node > requestretry > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-05-01T08:40:05.305Z'
   'npm:lodash:20180130':
     - cordova > cordova-common > plist > xmlbuilder > lodash:
         patched: '2020-03-28T00:23:07.096Z'
@@ -146,3 +162,60 @@ patch:
   SNYK-JS-LODASH-567746:
     - lodash:
         patched: '2020-05-01T04:03:50.849Z'
+    - html-webpack-plugin > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma-webpack > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - string-replace-loader > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - node-sass > sass-graph > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma-webpack > async > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > combine-lists > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - node-sass > gaze > globule > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - '@ionic/app-scripts > node-sass > sass-graph > lodash':
+        patched: '2020-05-01T08:40:05.305Z'
+    - '@ionic/app-scripts > webpack > async > lodash':
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > hipchat-notifier > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - '@ionic/app-scripts > node-sass > gaze > globule > lodash':
+        patched: '2020-05-01T08:40:05.305Z'
+    - '@ionic/app-scripts > webpack > watchpack > async > lodash':
+        patched: '2020-05-01T08:40:05.305Z'
+    - node-sass > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - css-loader > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - ionic > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - '@ionic/app-scripts > node-sass > lodash':
+        patched: '2020-05-01T08:40:05.305Z'
+    - ionic > @ionic/cli-utils > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - cordova > insight > async > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - http-server > portfinder > async > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - cordova > insight > inquirer > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - ionic > @ionic/cli-framework > inquirer > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - ionic > @ionic/cli-utils > @ionic/cli-framework > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > mailgun-js > async > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - ionic > @ionic/cli-utils > @ionic/cli-framework > inquirer > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - karma > log4js > slack-node > requestretry > lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+    - lodash:
+        patched: '2020-05-01T08:40:05.305Z'
+  'npm:tunnel-agent:20170305':
+    - karma > log4js > loggly > request > tunnel-agent:
+        patched: '2020-05-01T08:40:05.305Z'

@@ -86,7 +86,7 @@
     "rxjs": "^5.5.12",
     "sw-toolbox": "^3.4.0",
     "wp-api-angular": "^3.0.0-beta8",
-    "zone.js": "0.10.2",
+    "zone.js": "0.10.3",
     "snyk": "^1.316.1"
   },
   "devDependencies": {

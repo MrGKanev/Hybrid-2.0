@@ -93,7 +93,7 @@
     "@angular/router": "^4.4.7",
     "@ionic/app-scripts": "^3.2.2",
     "@types/jasmine": "2.5.41",
-    "@types/node": "^7.0.22",
+    "@types/node": "^7.10.10",
     "@types/prismjs": "^1.6.2",
     "@types/webpack-env": "^1.13.0",
     "angular2-template-loader": "^0.6.2",

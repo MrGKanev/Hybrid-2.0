@@ -606,7 +606,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
-"@types/node@*", "@types/node@^7.0.22":
+"@types/node@*":
   version "7.0.46"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.0.46.tgz#c3dedd25558c676b3d6303e51799abb9c3f8f314"
 
@@ -614,6 +614,11 @@
   version "6.14.10"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.14.10.tgz#d9ce598127eb0cc02821476862d11389cb01f6a4"
   integrity sha512-pF4HjZGSog75kGq7B1InK/wt/N08BuPATo+7HRfv7gZUzccebwv/fmWVGs/j6LvSiLWpCuGGhql51M/wcQsNzA==
+
+"@types/node@^7.10.10":
+  version "7.10.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.10.tgz#af1d109f45cda5bd7510035f0fda0c2e13e3ec15"
+  integrity sha512-gvuWz7pNex4xCFqk/2Z/x1J4AO7kZxgv4iSZH0dwZHYiFuO7rQr06xnBoiarrd8bcOxlqQCFv7MsKcAVq3FFfQ==
 
 "@types/prismjs@^1.6.2":
   version "1.6.5"

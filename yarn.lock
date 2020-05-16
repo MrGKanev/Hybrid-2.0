@@ -618,10 +618,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.10.tgz#af1d109f45cda5bd7510035f0fda0c2e13e3ec15"
   integrity sha512-gvuWz7pNex4xCFqk/2Z/x1J4AO7kZxgv4iSZH0dwZHYiFuO7rQr06xnBoiarrd8bcOxlqQCFv7MsKcAVq3FFfQ==
 
-"@types/prismjs@^1.6.2":
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/@types/prismjs/-/prismjs-1.16.0.tgz#4328c9f65698e59f4feade8f4e5d928c748fd643"
-  integrity sha512-mEyuziLrfDCQ4juQP1k706BUU/c8OGn/ZFl69AXXY6dStHClKX4P+N8+rhqpul1vRDA2VOygzMRSJJZHyDEOfw==
+"@types/prismjs@^1.16.1":
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/@types/prismjs/-/prismjs-1.16.1.tgz#50b82947207847db6abcbcd14caa89e3b897c259"
+  integrity sha512-RNgcK3FEc1GpeOkamGDq42EYkb6yZW5OWQwTS56NJIB8WL0QGISQglA7En7NUx9RGP8AC52DOe+squqbAckXlA==
 
 "@types/semver@^5.5.0":
   version "5.5.0"

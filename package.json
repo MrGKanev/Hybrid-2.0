@@ -87,7 +87,7 @@
     "sw-toolbox": "^3.4.0",
     "wp-api-angular": "^3.0.0-beta8",
     "zone.js": "0.10.3",
-    "snyk": "^1.360.0"
+    "snyk": "^1.361.3"
   },
   "devDependencies": {
     "@angular/router": "^4.4.7",

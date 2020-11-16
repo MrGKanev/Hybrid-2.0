@@ -8834,9 +8834,9 @@ yn@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/yn/-/yn-2.0.0.tgz#e5adabc8acf408f6385fc76495684c88e6af689a"
 
-zone.js@0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.11.0.tgz#38f864407066c7decf54cc0d3e14eae384e35e19"
-  integrity sha512-Aeh31lIySDLetjIyTxk1X+j6jxWPHH99cLuOreApK0hNrEogxEO+cPhx5wQaeg7d7KcAFWrA6ZlIVTv7MTasyA==
+zone.js@0.11.2:
+  version "0.11.2"
+  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.11.2.tgz#bde87c9523f46a71b04f0f02b87af3edbb99b534"
+  integrity sha512-JUpNKmWIovqRZlqkX6pFdBVlOU42n5Mt1n2yEaJdy+msBant/l2L1hTG6BFxCzM+KV3SX4XQOcwbhnwsPAeUTA==
   dependencies:
     tslib "^2.0.0"

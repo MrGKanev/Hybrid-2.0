@@ -476,31 +476,6 @@
     source-map-support "^0.5.19"
     tslib "^1.13.0"
 
-"@snyk/dep-graph@1.23.1", "@snyk/dep-graph@^1.23.1":
-  version "1.23.1"
-  resolved "https://registry.yarnpkg.com/@snyk/dep-graph/-/dep-graph-1.23.1.tgz#c884811669983febb6685f9107b322b3c0603f42"
-  integrity sha512-bSlTRVJP0PHtvoilhE463AMt0fhsf9PxCEqJ28VHCVSe5QFzIlgGdljtytV+2DheadGwu27BgLGqPDGMdTBHRQ==
-  dependencies:
-    lodash.clone "^4.5.0"
-    lodash.constant "^3.0.0"
-    lodash.filter "^4.6.0"
-    lodash.foreach "^4.5.0"
-    lodash.has "^4.5.2"
-    lodash.isempty "^4.4.0"
-    lodash.isequal "^4.5.0"
-    lodash.isfunction "^3.0.9"
-    lodash.isundefined "^3.0.1"
-    lodash.keys "^4.2.0"
-    lodash.map "^4.6.0"
-    lodash.reduce "^4.6.0"
-    lodash.size "^4.2.0"
-    lodash.transform "^4.6.0"
-    lodash.union "^4.6.0"
-    lodash.values "^4.3.0"
-    object-hash "^2.0.3"
-    semver "^6.0.0"
-    tslib "^1.13.0"
-
 "@snyk/dep-graph@^1.19.3":
   version "1.19.3"
   resolved "https://registry.yarnpkg.com/@snyk/dep-graph/-/dep-graph-1.19.3.tgz#f20521baf060f83f052fd6b55fad8b377833418d"
@@ -533,6 +508,56 @@
     lodash.isequal "^4.5.0"
     object-hash "^2.0.3"
     semver "^6.0.0"
+    tslib "^1.13.0"
+
+"@snyk/dep-graph@^1.23.1":
+  version "1.23.1"
+  resolved "https://registry.yarnpkg.com/@snyk/dep-graph/-/dep-graph-1.23.1.tgz#c884811669983febb6685f9107b322b3c0603f42"
+  integrity sha512-bSlTRVJP0PHtvoilhE463AMt0fhsf9PxCEqJ28VHCVSe5QFzIlgGdljtytV+2DheadGwu27BgLGqPDGMdTBHRQ==
+  dependencies:
+    lodash.clone "^4.5.0"
+    lodash.constant "^3.0.0"
+    lodash.filter "^4.6.0"
+    lodash.foreach "^4.5.0"
+    lodash.has "^4.5.2"
+    lodash.isempty "^4.4.0"
+    lodash.isequal "^4.5.0"
+    lodash.isfunction "^3.0.9"
+    lodash.isundefined "^3.0.1"
+    lodash.keys "^4.2.0"
+    lodash.map "^4.6.0"
+    lodash.reduce "^4.6.0"
+    lodash.size "^4.2.0"
+    lodash.transform "^4.6.0"
+    lodash.union "^4.6.0"
+    lodash.values "^4.3.0"
+    object-hash "^2.0.3"
+    semver "^6.0.0"
+    tslib "^1.13.0"
+
+"@snyk/dep-graph@^1.27.1":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@snyk/dep-graph/-/dep-graph-1.28.0.tgz#d68c0576cb3562c6e819ca8a8c7ac29ee11d9776"
+  integrity sha512-Oup9nAvb558jdNvbZah/vaBtOtCcizkdeS+OBQeBIqIffyer4mc4juSn4b1SFjCpu7AG7piio8Lj8k1B9ps6Tg==
+  dependencies:
+    event-loop-spinner "^2.1.0"
+    lodash.clone "^4.5.0"
+    lodash.constant "^3.0.0"
+    lodash.filter "^4.6.0"
+    lodash.foreach "^4.5.0"
+    lodash.isempty "^4.4.0"
+    lodash.isequal "^4.5.0"
+    lodash.isfunction "^3.0.9"
+    lodash.isundefined "^3.0.1"
+    lodash.keys "^4.2.0"
+    lodash.map "^4.6.0"
+    lodash.reduce "^4.6.0"
+    lodash.size "^4.2.0"
+    lodash.transform "^4.6.0"
+    lodash.union "^4.6.0"
+    lodash.values "^4.3.0"
+    object-hash "^2.0.3"
+    semver "^7.0.0"
     tslib "^1.13.0"
 
 "@snyk/docker-registry-v2-client@1.13.9":
@@ -3135,6 +3160,13 @@ event-loop-spinner@^2.0.0:
   integrity sha512-1y4j/Mhttr8ordvHkbDsGzGrlQaSYJoXD/3YKUxiOXIk7myEn9UPfybEk/lLtrcU3D4QvCNmVUxVQaPtvAIaUw==
   dependencies:
     tslib "^1.10.0"
+
+event-loop-spinner@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/event-loop-spinner/-/event-loop-spinner-2.1.0.tgz#75f501d585105c6d57f174073b39af1b6b3a1567"
+  integrity sha512-RJ10wL8/F9AlfBgRCvYctJIXSb9XkVmSCK3GGUvPD3dJrvTjDeDT0tmhcbEC6I2NEjNM9xD38HQJ4F/f/gb4VQ==
+  dependencies:
+    tslib "^2.1.0"
 
 eventemitter3@^4.0.0:
   version "4.0.7"
@@ -7714,15 +7746,15 @@ snyk-try-require@^2.0.0:
     lodash.clonedeep "^4.3.0"
     lru-cache "^5.1.1"
 
-snyk@^1.485.0:
-  version "1.485.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.485.0.tgz#66e3de2725b8eb26ee600d9ca72d8df18f96dd36"
-  integrity sha512-y1GjejxsxGcevvvB22689JWzw2dBUPDZLhyjiiK+XoMO/VNw0yWriBiDszXrcLV2sFkM42c47rAO6aj+7lRJCQ==
+snyk@^1.502.0:
+  version "1.502.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.502.0.tgz#aa378cd1ecc223ff0d533ca9aa28258cab35b717"
+  integrity sha512-tHLDnt8Ye1HMAB6fzfymb7j5BE+UCIZFzi1jNHDb+fNGu+RJkwQxQ22UuckgOkUV8mjQLeFUzM85mIx9YSQFEQ==
   dependencies:
     "@open-policy-agent/opa-wasm" "^1.2.0"
     "@snyk/cli-interface" "2.11.0"
     "@snyk/code-client" "3.1.4"
-    "@snyk/dep-graph" "1.23.1"
+    "@snyk/dep-graph" "^1.27.1"
     "@snyk/gemfile" "1.2.0"
     "@snyk/graphlib" "^2.1.9-patch.3"
     "@snyk/inquirer" "^7.3.3-patch"
@@ -8549,6 +8581,11 @@ tslib@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.0.tgz#18d13fc2dce04051e20f074cc8387fd8089ce4f3"
   integrity sha512-lTqkx847PI7xEDYJntxZH89L2/aXInsyF2luSafe/+0fHOMjlBNXdH6th7f70qxLDhul7KZK0zC8V5ZIyHl0/g==
+
+tslib@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
+  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
 tslint-eslint-rules@^4.1.1:
   version "4.1.1"

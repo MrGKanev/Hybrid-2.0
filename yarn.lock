@@ -1187,10 +1187,10 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
-android-versions@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/android-versions/-/android-versions-1.6.0.tgz#14792f6849090486726b29959d9fa5dbc0163727"
-  integrity sha512-ojC2Ig7b/KJ6iNtR8e4bacmOsJyEkoERk3CKMIsnH7kJz5z6551NMbrVaRb7KXYavu1d74Uhml/bfcmqT3nAcg==
+android-versions@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/android-versions/-/android-versions-1.7.0.tgz#d901af361746fe6de9a6d855fbc35bcb514f54d2"
+  integrity sha512-TCy4b8Dk8YS6A23ZPfhSKqK66JHFq0D8avGYiwvYpjno6HrrcI0DRgHx9+jtkvWYmrsE2vQWgbHJhvGGhhOb0g==
   dependencies:
     semver "^5.7.1"
 

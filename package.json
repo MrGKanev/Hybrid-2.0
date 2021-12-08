@@ -116,7 +116,7 @@
     "karma-sourcemap-loader": "^0.3.8",
     "karma-webpack": "^2.0.10",
     "ng-pwa-tools": "^0.0.15",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.0",
     "null-loader": "^0.1.1",
     "source-map-explorer": "^2.1.2",
     "string-replace-loader": "^1.0.5",
